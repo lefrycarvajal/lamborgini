@@ -4,7 +4,7 @@ include_once("header.php")
 
 <nav  class="navbar navbar-expand-lg navbar-light ftco_navbar bg-light ftco-navbar-dark" id="ftco-navbar">
 		<div class="container">
-			<a class="navbar-brand d-flex align-items-center" href="index.html"><img src="images/logo.png" 
+			<a class="navbar-brand d-flex align-items-center" href="index.php"><img src="images/logo.png" 
 			class="img-fluid" width="100px" alt="logo"></a>
 			
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
@@ -28,7 +28,6 @@ include_once("header.php")
 
 <div class="general">
 <section class="hero-wrap hero-wrap-2" style="background-image: url('images/few-off-2_2.webp');" data-stellar-background-ratio="0.5">
-		&lt;div class=&quot;overlay&quot;&gt;&lt;/div&gt;
 <div class="container">
 		<div class="row no-gutters slider-text align-items-end justify-content-start">
 			<div class="col-md-9 ftco-animate pb-5">
