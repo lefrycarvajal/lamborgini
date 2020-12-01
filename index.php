@@ -5,7 +5,7 @@ include_once("header.php")
 
 	<nav  class="navbar navbar-expand-lg navbar-light ftco_navbar bg-light ftco-navbar-dark" id="ftco-navbar">
 		<div class="container">
-			<a class="navbar-brand d-flex align-items-center" href="index.html"><img src="images/logo.png" 
+			<a class="navbar-brand d-flex align-items-center" href="index.php"><img src="images/logo.png" 
 			class="img-fluid" width="100px" alt="logo"></a>
 			
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
